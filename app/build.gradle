@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    defaultConfig {
+        applicationId "com.mvvm.restapi.example"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    dataBinding {
+        enabled = true
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation deps.supportAppcompatV7
+    implementation deps.supportDesign
+    implementation deps.gson
+    implementation deps.retrofit
+    implementation deps.retrofitGsonConverter
+    implementation deps.lifecycleRuntime
+    implementation deps.lifecycleExtensions
+    implementation deps.cardView
+    implementation deps.glide
+    testImplementation deps.junit
+    androidTestImplementation deps.androidTest
+    androidTestImplementation deps.espresso
+}

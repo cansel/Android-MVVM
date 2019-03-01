@@ -1,0 +1,341 @@
+{
+  "games": {
+    "10174@greentube": {
+      "gameName": "Hardwell",
+      "gameId": "10174@greentube",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
+      "tags": [
+        "bonusrounds",
+        "freespins",
+        "music",
+        "slots",
+        "stakelogic",
+        "themed"
+      ],
+      "vendorId": "gamevendor.greentube"
+    },
+    "109@greentube": {
+      "gameName": "Lucky Lady`s Charm",
+      "gameId": "109@greentube",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
+      "tags": [
+        "10winlines",
+        "freespins",
+        "slots",
+        "wilds",
+        "irish",
+        "themed",
+        "novomatic",
+        "classicslots"
+      ],
+      "vendorId": "gamevendor.greentube"
+    },
+    "110007@nyx": {
+      "gameName": "Age Restricted",
+      "gameId": "110007@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/pool.png",
+      "tags": [
+        "slots",
+        "100winlines",
+        "freespins",
+        "elkgaming",
+        "fruits",
+        "wilds",
+        "themed"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110009@nyx": {
+      "gameName": "Age Restricted",
+      "gameId": "110009@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+      "tags": [
+        "slots",
+        "100winlines",
+        "freespins",
+        "respins",
+        "elkgaming",
+        "party",
+        "themed"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110010@nyx": {
+      "gameName": "DJ Wild",
+      "gameId": "110010@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
+      "tags": [
+        "11-30winlines",
+        "elkgaming",
+        "slots",
+        "wilds",
+        "music",
+        "party",
+        "respins",
+        "themed"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110012@nyx": {
+      "gameName": "Age Restricted",
+      "gameId": "110012@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/barbara.png",
+      "tags": [
+        "100winlines",
+        "elkgaming",
+        "filmandtv",
+        "freespins",
+        "slots",
+        "themed"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110013@nyx": {
+      "gameName": "Poltava - Flames of War",
+      "gameId": "110013@nyx",
+      "imageUrl": "https://a1s.unicdn.net/polopoly_fs/1.808241.1482140875!/image/3327478703.png",
+      "tags": [
+        "31-100winlines",
+        "bonusrounds",
+        "elkgaming",
+        "freespins",
+        "respins",
+        "slots",
+        "wilds",
+        "themed"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110014@nyx": {
+      "gameName": "Wild Toro",
+      "gameId": "110014@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/pool.png",
+      "tags": [
+        "100winlines",
+        "elkgaming",
+        "respins",
+        "wilds",
+        "animals",
+        "themed"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110015@nyx": {
+      "gameName": "Age Restricted",
+      "gameId": "110015@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+      "tags": [
+        "100winlines",
+        "freespins",
+        "elkgaming",
+        "respins",
+        "slots",
+        "wilds",
+        "santa",
+        "party",
+        "themed"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110016@nyx": {
+      "gameName": "Age Restricted",
+      "gameId": "110016@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/lena.png",
+      "tags": [
+        "100winlines",
+        "freespins",
+        "elkgaming",
+        "slots",
+        "holiday",
+        "themed",
+        "wilds"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110017@nyx": {
+      "gameName": "Hong Kong Tower",
+      "gameId": "110017@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/barbara.png",
+      "tags": [
+        "asian",
+        "themed",
+        "slots",
+        "bonusrounds",
+        "elkgaming",
+        "31-100winlines"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110018@nyx": {
+      "gameName": "Ivanhoe",
+      "gameId": "110018@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+      "tags": [
+        "11-30winlines",
+        "classicslots",
+        "bonusrounds",
+        "freespins",
+        "elkgaming",
+        "themed",
+        "wilds"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110019@nyx": {
+      "gameName": "Hidden",
+      "gameId": "110019@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/lena.png",
+      "tags": [
+        "100winlines",
+        "animals",
+        "elkgaming",
+        "freespins",
+        "holiday",
+        "respins",
+        "themed",
+        "slots",
+        "wilds"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110020@nyx": {
+      "gameName": "Route 777",
+      "gameId": "110020@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+      "tags": [
+        "11-30winlines",
+        "bonusrounds",
+        "classicslots",
+        "elkgaming",
+        "freespins",
+        "fruits",
+        "respins",
+        "slots",
+        "themed"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110022@nyx": {
+      "gameName": "Wild Seas",
+      "gameId": "110022@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/barbara.png",
+      "tags": [
+        "100winlines",
+        "action",
+        "bonusrounds",
+        "freespins",
+        "elkgaming",
+        "slots",
+        "themed",
+        "wilds"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110023@nyx": {
+      "gameName": "Kaiju",
+      "gameId": "110023@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/lena.png",
+      "tags": [
+        "100winlines",
+        "asian",
+        "bonusrounds",
+        "elkgaming",
+        "freespins",
+        "slots",
+        "themed",
+        "wilds"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "110024@nyx": {
+      "gameName": "Lake's Five",
+      "gameId": "110024@nyx",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png",
+      "tags": [
+        "elkgaming",
+        "animals",
+        "scatters",
+        "slots",
+        "themed",
+        "wilds",
+        "respins",
+        "freespins",
+        "100winlines"
+      ],
+      "vendorId": "gamevendor.nyxVendor"
+    },
+    "111@neogames": {
+      "gameName": "Lucky Charms",
+      "gameId": "111@neogames",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/lena.png",
+      "tags": [
+        "scratch",
+        "NeoGames",
+        "neogames"
+      ],
+      "vendorId": "gamevendor.neogames"
+    },
+    "123@greentube": {
+      "gameName": "Sizzling Hot Deluxe",
+      "gameId": "123@greentube",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/barbara.png",
+      "tags": [
+        "slots",
+        "classicslots",
+        "10winlines",
+        "themed",
+        "novomatic"
+      ],
+      "vendorId": "gamevendor.greentube"
+    },
+    "131@greentube": {
+      "gameName": "Book of Ra Deluxe UK",
+      "gameId": "131@greentube",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "tags": [
+        "10winlines",
+        "action",
+        "egypt",
+        "freespins",
+        "novomatic",
+        "slots",
+        "themed",
+        "wilds"
+      ],
+      "vendorId": "gamevendor.greentube"
+    },
+    "138@neogames": {
+      "gameName": "Alfredo",
+      "gameId": "138@neogames",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+      "tags": [
+        "scratch",
+        "NeoGames",
+        "neogames"
+      ],
+      "vendorId": "gamevendor.neogames"
+    },
+    "141@neogames": {
+      "gameName": "7th Heaven",
+      "gameId": "141@neogames",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
+      "tags": [
+        "scratch",
+        "NeoGames",
+        "neogames"
+      ],
+      "vendorId": "gamevendor.neogames"
+    },
+    "143@neogames": {
+      "gameName": "Golden Island",
+      "gameId": "143@neogames",
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+      "tags": [
+        "scratch",
+        "NeoGames",
+        "neogames"
+      ],
+      "vendorId": "gamevendor.neogames"
+    }
+  }
+}
