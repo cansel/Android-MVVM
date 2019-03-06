@@ -24,11 +24,10 @@ public class ResponseUnitTest {
         try {
             GameModel result = new Gson().fromJson(readJsonFile("game.json"),
                     mapType);
-            assertEquals(551,result.getGamesData().size());
             assertEquals("10174@greentube",
                     result.getGamesData().get("10174@greentube").getGameId());
-            assertEquals("Hot Roll Super Times Pay",
-                    result.getGamesData().get("200-1270-001@igt").mGameName);
+            assertEquals("Hardwell",
+                    result.getGamesData().get("10174@greentube").mGameName);
         } catch (IOException e) {
             e.printStackTrace();
         }
