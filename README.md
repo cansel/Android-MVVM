@@ -7,5 +7,5 @@ App uses MVVM Architecture.
 
 
 
-![alt text](/ScreenShots/sc1.png?raw=true "Screen 1")
-![alt text](/ScreenShots/sc2.png?raw=true "Screen 2")
+![alt text](/Screenshots/sc1.png?raw=true "Screen 1")
+![alt text](/Screenshots/sc2.png?raw=true "Screen 2")
